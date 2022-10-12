@@ -11,6 +11,6 @@
   "dependencies": {
     "dotenv": "^8.2.0",
     "mongoose": "^5.9.22",
-    "read-excel-file": "^4.0.6"
+    "read-excel-file": "^5.5.1"
   }
 }
